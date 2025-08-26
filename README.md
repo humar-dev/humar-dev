@@ -10,7 +10,7 @@ From designing seamless user interfaces to building robust server-side architect
 
 
 * 🖥️  Checkout my  [Upwork](https://www.upwork.com/freelancers/~01f56212f94b823534) Profile
-* ✉️  You can contact me at [umarfarooq.workk@gmail.com](mailto:umarfarooq.workk@gmail.com)
+* ✉️  You can contact me at [umarfarooq.workk@gmail.com](umarfarooq.workk@gmail.com)
 * 🤝 Open to collaboration on exciting projects and challenges
 
 ### Skills
@@ -58,6 +58,18 @@ From designing seamless user interfaces to building robust server-side architect
     <img 
       src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" 
       width="32" height="32" alt="GitHub Icon" />
+  </a>
+  <!-- Instagram Icon -->
+  <a href="https://www.instagram.com/humar-dev/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+    <img 
+      src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" 
+      width="32" height="32" alt="Instagram Icon" />
+  </a>
+  <!-- LinkedIn Icon -->
+  <a href="https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=umar-farooq-628578a2" target="_blank" rel="noreferrer" style="text-decoration: none;">
+    <img 
+      src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" 
+      width="32" height="32" alt="LinkedIn Icon" />
   </a>
   <!-- Upwork Icon -->
   <a href="https://www.upwork.com/freelancers/~01f56212f94b823534" target="_blank" rel="noreferrer" style="text-decoration: none;">
