@@ -66,7 +66,7 @@ From designing seamless user interfaces to building robust server-side architect
       width="32" height="32" alt="Instagram Icon" />
   </a>
   <!-- LinkedIn Icon -->
-  <a href="https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=umar-farooq-628578a2" target="_blank" rel="noreferrer" style="text-decoration: none;">
+  <a href="https://www.linkedin.com/in/umar-farooq-628578a2" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img 
       src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" 
       width="32" height="32" alt="LinkedIn Icon" />
