@@ -1,4 +1,4 @@
-Hi 👋 I'm Umar Farooq
+Hi 👋 I'm Hafiz Umar Farooq
 ==============================
 
 Full Stack Developer | Web Architect
